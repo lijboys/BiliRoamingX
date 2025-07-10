@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biliroaming_settings_title">嗶哩漫遊X</string>
+    <string name="biliroaming_full_screen_quality_title">影片全屏畫質</string>
+    <string name="biliroaming_full_screen_quality_wifi_title">Wi-Fi網路影片全屏畫質</string>
+    <string name="biliroaming_full_screen_quality_mobile_title">行動網路影片全屏畫質</string>
+    <string name="biliroaming_full_screen_quality_summary">設定影片全屏播放時的預設畫質，若播放器畫質選項為「自動」則不生效</string>
+    <string name="biliroaming_block_up_rcmd_ads_title">遮蔽UP主推薦廣告</string>
+    <string name="biliroaming_block_up_rcmd_ads_summary">遮蔽影片下方推薦欄及播放中浮窗出現的UP主推薦廣告，開啟後同時隱藏評論區頂部推廣橫幅</string>
+    <string name="biliroaming_need_reboot_dialog_message">需重新啟動才能生效</string>
+    <string name="biliroaming_need_reboot_dialog_confirm">立即重新啟動</string>
+    <string name="biliroaming_need_reboot_dialog_later">稍後</string>
+    <string name="biliroaming_disable_story_full_title">隱藏豎屏按鈕</string>
+    <string name="biliroaming_disable_story_full_summary">橫幅影片半屏時不顯示豎屏按鈕</string>
+    <string name="biliroaming_purify_splash_title">淨化啟動畫面</string>
+    <string name="biliroaming_purify_splash_summary">移除啟動APP時的推廣內容</string>
+    <string name="biliroaming_teenagers_mode_dialog_title">關閉青少年模式彈窗</string>
+    <string name="biliroaming_teenagers_mode_dialog_summary">仍可從側滑選單進入青少年模式</string>
+    <string name="biliroaming_unlock_area_limit_title">總開關</string>
+    <string name="biliroaming_unlock_area_limit_summary">設定解析伺服器即可觀看地區外版權動畫</string>
+    <string name="biliroaming_subtitle_title">字幕</string>
+    <string name="biliroaming_generate_subtitle_title">產生字幕</string>
+    <string name="biliroaming_generate_subtitle_summary">- 依據繁體字幕自動產生簡體中文字幕\n- 必要時使用第三方翻譯服務將英文字幕轉為簡體中文</string>
+    <string name="biliroaming_usage_hint_message">歡迎使用嗶哩漫遊X，以下說明請詳閱：&lt;br&gt;&lt;br&gt;1. 本模組完全&lt;b&gt;免費&lt;/b&gt;，請慎防詐騙。&lt;br&gt;2. 基於ReVanced技術，不使用Xposed框架，追求極致效能。&lt;br&gt;3. &lt;b&gt;請勿&lt;/b&gt;在B站任何地方暗示/提及/宣傳，違者帳號將被封鎖；且&lt;b&gt;禁止&lt;/b&gt;在台灣公眾平台宣傳。&lt;br&gt;4. 可在嗶哩漫遊X「關於」頁面檢舉違規用戶。&lt;br&gt;5. 需&lt;b&gt;登入&lt;/b&gt;且帳號等級不低於&lt;b&gt;4級&lt;/b&gt;，並為&lt;b&gt;大會員&lt;/b&gt;才能使用。&lt;br&gt;6. 設定入口：我的 → 設定 → 嗶哩漫遊X。</string>
+</resources>
