@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="biliroaming_full_screen_quality_entries">
+        <item>預設</item>
+        <item>8K 超高畫質</item>
+        <item>杜比視界</item>
+        <item>HDR 真彩</item>
+        <item>4K 超清</item>
+        <item>1080P 60幀</item>
+        <item>1080P 高碼率</item>
+        <item>1080P 高清</item>
+        <item>720P 60幀</item>
+        <item>720P 高清</item>
+        <item>480P 清晰</item>
+        <item>360P 流暢</item>
+        <item>240P 極速</item>
+    </string-array>
+    <string-array name="biliroaming_live_popup_entries">
+        <item>購物卡片</item>
+        <item>購物精選</item>
+        <item>關注提醒</item>
+        <item>直播預約</item>
+        <item>投喂支持</item>
+        <item>滾動橫幅</item>
+    </string-array>
+    <string-array name="biliroaming_home_tab_entries">
+        <item>直播</item>
+        <item>推薦</item>
+        <item>熱門</item>
+        <item>動畫</item>
+        <item>影視</item>
+        <item>韓綜</item>
+        <item>其他</item>
+    </string-array>
+</resources>
