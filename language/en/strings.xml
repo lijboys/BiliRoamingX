@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biliroaming_settings_title">BiliRoamingX</string>
+    <string name="biliroaming_full_screen_quality_title">Full-screen video quality</string>
+    <string name="biliroaming_full_screen_quality_wifi_title">Full-screen video quality (Wi-Fi)</string>
+    <string name="biliroaming_full_screen_quality_mobile_title">Full-screen video quality (mobile data)</string>
+    <string name="biliroaming_full_screen_quality_summary">Set default quality for full-screen playback. Not effective if player quality is set to "Auto".</string>
+    <string name="biliroaming_block_up_rcmd_ads_title">Block UP creator recommended ads</string>
+    <string name="biliroaming_block_up_rcmd_ads_summary">Block UP creator ads in video recommendation bars and pop-ups during playback. Enabling hides top promotion banners in comments too.</string>
+    <string name="biliroaming_need_reboot_dialog_message">Reboot required to apply changes</string>
+    <string name="biliroaming_need_reboot_dialog_confirm">Reboot now</string>
+    <string name="biliroaming_need_reboot_dialog_later">Later</string>
+    <string name="biliroaming_disable_story_full_title">Hide portrait mode button</string>
+    <string name="biliroaming_disable_story_full_summary">Don\'t show portrait button for landscape videos in half-screen mode</string>
+    <string name="biliroaming_purify_splash_title">Clean up splash screen</string>
+    <string name="biliroaming_purify_splash_summary">Remove promotions when launching the app</string>
+    <string name="biliroaming_teenagers_mode_dialog_title">Disable teenager mode pop-up</string>
+    <string name="biliroaming_teenagers_mode_dialog_summary">Still accessible via the side menu</string>
+    <string name="biliroaming_unlock_area_limit_title">Master switch</string>
+    <string name="biliroaming_unlock_area_limit_summary">Set a parsing server to watch region-locked anime</string>
+    <string name="biliroaming_subtitle_title">Subtitles</string>
+    <string name="biliroaming_generate_subtitle_title">Generate subtitles</string>
+    <string name="biliroaming_generate_subtitle_summary">- Auto-convert Traditional Chinese subtitles to Simplified Chinese\n- Translate English subtitles to Simplified Chinese via third-party services when needed</string>
+    <string name="biliroaming_usage_hint_message">Welcome to BiliRoamingX. Please read these notes carefully:&lt;br&gt;&lt;br&gt;1. This module is completely &lt;b&gt;free&lt;/b&gt;. Beware of scams.&lt;br&gt;2. Built on ReVanced, no Xposed framework required—focused on performance.&lt;br&gt;3. &lt;b&gt;Do not&lt;/b&gt; imply/mention/promote it on Bilibili or public platforms; violators will be banned.&lt;br&gt;4. Report rule-breakers in the "About" section.&lt;br&gt;5. Requires &lt;b&gt;login&lt;/b&gt;, account level ≥4, and &lt;b&gt;VIP membership&lt;/b&gt; to use.&lt;br&gt;6. Settings access: Mine → Settings → BiliRoamingX.</string>
+</resources>
