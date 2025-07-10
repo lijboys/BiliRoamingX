@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="biliroaming_full_screen_quality_entries">
+        <item>Default</item>
+        <item>8K Ultra HD</item>
+        <item>Dolby Vision</item>
+        <item>HDR True Color</item>
+        <item>4K Ultra HD</item>
+        <item>1080P 60fps</item>
+        <item>1080P High Bitrate</item>
+        <item>1080P HD</item>
+        <item>720P 60fps</item>
+        <item>720P HD</item>
+        <item>480P SD</item>
+        <item>360P Smooth</item>
+        <item>240P Fast</item>
+    </string-array>
+    <string-array name="biliroaming_live_popup_entries">
+        <item>Shopping cards</item>
+        <item>Featured shopping</item>
+        <item>Follow reminders</item>
+        <item>Live stream reservations</item>
+        <item>Gift support prompts</item>
+        <item>Scrolling banners</item>
+    </string-array>
+    <string-array name="biliroaming_home_tab_entries">
+        <item>Live</item>
+        <item>Recommendations</item>
+        <item>Trending</item>
+        <item>Anime</item>
+        <item>Movies & TV</item>
+        <item>K-dramas & variety</item>
+        <item>Others</item>
+    </string-array>
+</resources>
